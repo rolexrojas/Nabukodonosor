@@ -1,0 +1,13 @@
+C:\COREAPI\C#\ProductsApp\bin\ProductsApp.dll.config
+C:\COREAPI\C#\ProductsApp\bin\ProductsApp.dll
+C:\COREAPI\C#\ProductsApp\bin\ProductsApp.pdb
+C:\COREAPI\C#\ProductsApp\bin\Newtonsoft.Json.dll
+C:\COREAPI\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\COREAPI\C#\ProductsApp\bin\System.Web.Http.dll
+C:\COREAPI\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\COREAPI\C#\ProductsApp\bin\Newtonsoft.Json.xml
+C:\COREAPI\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\COREAPI\C#\ProductsApp\bin\System.Web.Http.xml
+C:\COREAPI\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\COREAPI\C#\ProductsApp\obj\Debug\ProductsApp.dll
+C:\COREAPI\C#\ProductsApp\obj\Debug\ProductsApp.pdb
